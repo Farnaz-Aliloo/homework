@@ -1,1 +1,3 @@
 # homework
+teaching
+exam
